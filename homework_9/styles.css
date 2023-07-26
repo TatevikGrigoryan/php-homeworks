@@ -1,0 +1,14 @@
+.main-wrap {
+    background: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-input {
+    display: flex;
+    align-items: center;
+}
+.search-input > img {
+   margin-left: 10px;
+}

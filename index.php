@@ -1,3 +1,3 @@
 <?php
-include ('homework_6/json/main.php');
+include "homework_oop_2/index.php";
 
