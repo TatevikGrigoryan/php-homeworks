@@ -1,3 +1,3 @@
 <?php
-include "homework_oop_2/index.php";
+include "homework-oop-3/index.php";
 
